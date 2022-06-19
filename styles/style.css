@@ -30,3 +30,7 @@ img {
 .other {
     font-family: Helvetica, 'Courier New';
 }
+
+.multiline {
+    white-space: pre-wrap;
+}
