@@ -1,4 +1,4 @@
-function francisco()
+function redirecionar(url)
 {
-    window.location.href = "francisco.html";
+    window.location.href = url;
 }
