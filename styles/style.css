@@ -11,6 +11,10 @@ body {
     font-family: Helvetica, 'Courier New';
 }
 
+.btn-container {
+    position: relative;
+  }
+
 .btn {
     position: absolute;
     left: 50%;
